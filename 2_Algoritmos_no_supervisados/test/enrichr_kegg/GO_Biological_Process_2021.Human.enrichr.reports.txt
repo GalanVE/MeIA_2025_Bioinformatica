@@ -1,0 +1,74 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Biological_Process_2021	positive regulation of fat cell differentiation (GO:0045600)	2/51	2.831547e-04	2.067029e-02	0	0	1.017398e+02	8.311650e+02	CCDC71L;LMO3
+GO_Biological_Process_2021	regulation of fat cell differentiation (GO:0045598)	2/80	6.963752e-04	2.541770e-02	0	0	6.382051e+01	4.639510e+02	CCDC71L;LMO3
+GO_Biological_Process_2021	positive regulation of peroxisome proliferator activated receptor signaling pathway (GO:0035360)	1/5	2.497708e-03	3.642567e-02	0	0	5.551667e+02	3.326771e+03	LMO3
+GO_Biological_Process_2021	regulation of non-motile cilium assembly (GO:1902855)	1/6	2.996578e-03	3.642567e-02	0	0	4.441111e+02	2.580412e+03	MAP4
+GO_Biological_Process_2021	regulation of glucocorticoid receptor signaling pathway (GO:2000322)	1/7	3.495224e-03	3.642567e-02	0	0	3.700741e+02	2.093271e+03	LMO3
+GO_Biological_Process_2021	positive regulation of intracellular steroid hormone receptor signaling pathway (GO:0033145)	1/8	3.993646e-03	3.642567e-02	0	0	3.171905e+02	1.751859e+03	LMO3
+GO_Biological_Process_2021	regulation of peroxisome proliferator activated receptor signaling pathway (GO:0035358)	1/9	4.491844e-03	3.642567e-02	0	0	2.775278e+02	1.500174e+03	LMO3
+GO_Biological_Process_2021	mitochondrial fragmentation involved in apoptotic process (GO:0043653)	1/9	4.491844e-03	3.642567e-02	0	0	2.775278e+02	1.500174e+03	CCAR2
+GO_Biological_Process_2021	regulation of protein deacetylation (GO:0090311)	1/9	4.491844e-03	3.642567e-02	0	0	2.775278e+02	1.500174e+03	CCAR2
+GO_Biological_Process_2021	regulation of DNA damage checkpoint (GO:2000001)	1/10	4.989818e-03	3.642567e-02	0	0	2.466790e+02	1.307487e+03	CCAR2
+GO_Biological_Process_2021	negative regulation of cilium assembly (GO:1902018)	1/12	5.985094e-03	3.971926e-02	0	0	2.018081e+02	1.032951e+03	MAP4
+GO_Biological_Process_2021	positive regulation of cell differentiation (GO:0045597)	2/258	6.967110e-03	4.157329e-02	0	0	1.927148e+01	9.571288e+01	CCDC71L;LMO3
+GO_Biological_Process_2021	establishment of spindle localization (GO:0051293)	1/15	7.476328e-03	4.157329e-02	0	0	1.585397e+02	7.762124e+02	MAP4
+GO_Biological_Process_2021	regulation of intrinsic apoptotic signaling pathway in response to DNA damage (GO:1902229)	1/16	7.972959e-03	4.157329e-02	0	0	1.479630e+02	7.149126e+02	CCAR2
+GO_Biological_Process_2021	negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage (GO:1902230)	1/26	1.292699e-02	5.619409e-02	0	0	8.873333e+01	3.858514e+02	CCAR2
+GO_Biological_Process_2021	negative regulation of catalytic activity (GO:0043086)	1/27	1.342116e-02	5.619409e-02	0	0	8.531624e+01	3.677917e+02	CCAR2
+GO_Biological_Process_2021	regulation of DNA-templated transcription, elongation (GO:0032784)	1/28	1.391512e-02	5.619409e-02	0	0	8.215226e+01	3.511828e+02	CCAR2
+GO_Biological_Process_2021	establishment of spindle orientation (GO:0051294)	1/30	1.490236e-02	5.619409e-02	0	0	7.647893e+01	3.216884e+02	MAP4
+GO_Biological_Process_2021	negative regulation of response to DNA damage stimulus (GO:2001021)	1/31	1.539564e-02	5.619409e-02	0	0	7.392593e+01	3.085425e+02	CCAR2
+GO_Biological_Process_2021	negative regulation of proteasomal ubiquitin-dependent protein catabolic process (GO:0032435)	1/31	1.539564e-02	5.619409e-02	0	0	7.392593e+01	3.085425e+02	CCAR2
+GO_Biological_Process_2021	apoptotic mitochondrial changes (GO:0008637)	1/33	1.638155e-02	5.694538e-02	0	0	6.929861e+01	2.849281e+02	CCAR2
+GO_Biological_Process_2021	negative regulation of proteasomal protein catabolic process (GO:1901799)	1/38	1.884243e-02	5.980423e-02	0	0	5.991892e+01	2.379766e+02	CCAR2
+GO_Biological_Process_2021	negative regulation of ubiquitin-dependent protein catabolic process (GO:2000059)	1/38	1.884243e-02	5.980423e-02	0	0	5.991892e+01	2.379766e+02	CCAR2
+GO_Biological_Process_2021	negative regulation of ERK1 and ERK2 cascade (GO:0070373)	1/50	2.472595e-02	7.362723e-02	0	0	4.521769e+01	1.673010e+02	LMO3
+GO_Biological_Process_2021	regulation of protein modification process (GO:0031399)	1/51	2.521481e-02	7.362723e-02	0	0	4.431111e+01	1.630792e+02	CCAR2
+GO_Biological_Process_2021	positive regulation of response to DNA damage stimulus (GO:2001022)	1/55	2.716803e-02	7.627947e-02	0	0	4.102058e+01	1.479085e+02	CCAR2
+GO_Biological_Process_2021	response to light stimulus (GO:0009416)	1/61	3.009127e-02	8.135787e-02	0	0	3.690741e+01	1.293059e+02	CCAR2
+GO_Biological_Process_2021	negative regulation of intrinsic apoptotic signaling pathway (GO:2001243)	1/64	3.154992e-02	8.225514e-02	0	0	3.514462e+01	1.214663e+02	CCAR2
+GO_Biological_Process_2021	regulation of cellular response to heat (GO:1900034)	1/79	3.881360e-02	9.770320e-02	0	0	2.836467e+01	9.215638e+01	CCAR2
+GO_Biological_Process_2021	spindle assembly (GO:0051225)	1/84	4.122391e-02	1.003115e-01	0	0	2.664926e+01	8.497749e+01	SAC3D1
+GO_Biological_Process_2021	negative regulation of MAPK cascade (GO:0043409)	1/94	4.602822e-02	1.039654e-01	0	0	2.377180e+01	7.318151e+01	LMO3
+GO_Biological_Process_2021	positive regulation of cold-induced thermogenesis (GO:0120162)	1/97	4.746528e-02	1.039654e-01	0	0	2.302546e+01	7.017601e+01	PLAC8
+GO_Biological_Process_2021	RNA splicing (GO:0008380)	1/98	4.794387e-02	1.039654e-01	0	0	2.278694e+01	6.922045e+01	CCAR2
+GO_Biological_Process_2021	response to UV (GO:0009411)	1/99	4.842224e-02	1.039654e-01	0	0	2.255329e+01	6.828676e+01	CCAR2
+GO_Biological_Process_2021	regulation of proteasomal ubiquitin-dependent protein catabolic process (GO:0032434)	1/102	4.985605e-02	1.039855e-01	0	0	2.188009e+01	6.560997e+01	CCAR2
+GO_Biological_Process_2021	protein-containing complex subunit organization (GO:0043933)	1/112	5.462140e-02	1.071994e-01	0	0	1.989890e+01	5.785265e+01	SKAP2
+GO_Biological_Process_2021	positive regulation of metabolic process (GO:0009893)	1/113	5.509675e-02	1.071994e-01	0	0	1.972024e+01	5.716235e+01	PLAC8
+GO_Biological_Process_2021	regulation of cellular response to stress (GO:0080135)	1/118	5.747028e-02	1.071994e-01	0	0	1.887274e+01	5.390976e+01	CCAR2
+GO_Biological_Process_2021	negative regulation of cell growth (GO:0030308)	1/126	6.125676e-02	1.071994e-01	0	0	1.765778e+01	4.931254e+01	CCAR2
+GO_Biological_Process_2021	negative regulation of growth (GO:0045926)	1/126	6.125676e-02	1.071994e-01	0	0	1.765778e+01	4.931254e+01	CCAR2
+GO_Biological_Process_2021	microtubule cytoskeleton organization involved in mitosis (GO:1902850)	1/128	6.220124e-02	1.071994e-01	0	0	1.737795e+01	4.826518e+01	MAP4
+GO_Biological_Process_2021	plasma membrane bounded cell projection organization (GO:0120036)	1/128	6.220124e-02	1.071994e-01	0	0	1.737795e+01	4.826518e+01	MAP4
+GO_Biological_Process_2021	positive regulation of canonical Wnt signaling pathway (GO:0090263)	1/130	6.314486e-02	1.071994e-01	0	0	1.710680e+01	4.725453e+01	CCAR2
+GO_Biological_Process_2021	neuron development (GO:0048666)	1/143	6.925762e-02	1.149047e-01	0	0	1.553052e+01	4.146527e+01	MAP4
+GO_Biological_Process_2021	positive regulation of Wnt signaling pathway (GO:0030177)	1/153	7.393528e-02	1.199395e-01	0	0	1.450146e+01	3.777000e+01	CCAR2
+GO_Biological_Process_2021	mitotic spindle organization (GO:0007052)	1/157	7.580042e-02	1.202920e-01	0	0	1.412678e+01	3.644217e+01	MAP4
+GO_Biological_Process_2021	neuron projection development (GO:0031175)	1/171	8.230180e-02	1.278305e-01	0	0	1.295425e+01	3.235145e+01	MAP4
+GO_Biological_Process_2021	RNA processing (GO:0006396)	1/179	8.599836e-02	1.307892e-01	0	0	1.236704e+01	3.034163e+01	CCAR2
+GO_Biological_Process_2021	regulation of cell growth (GO:0001558)	1/217	1.033747e-01	1.540072e-01	0	0	1.017181e+01	2.308386e+01	CCAR2
+GO_Biological_Process_2021	regulation of ERK1 and ERK2 cascade (GO:0070372)	1/238	1.128493e-01	1.647600e-01	0	0	9.260666e+00	2.020401e+01	LMO3
+GO_Biological_Process_2021	positive regulation of signal transduction (GO:0009967)	1/252	1.191156e-01	1.678462e-01	0	0	8.737937e+00	1.859137e+01	LMO3
+GO_Biological_Process_2021	regulation of canonical Wnt signaling pathway (GO:0060828)	1/253	1.195617e-01	1.678462e-01	0	0	8.702822e+00	1.848412e+01	CCAR2
+GO_Biological_Process_2021	cellular component assembly (GO:0022607)	1/261	1.231228e-01	1.695843e-01	0	0	8.431624e+00	1.766065e+01	SKAP2
+GO_Biological_Process_2021	protein-containing complex assembly (GO:0065003)	1/267	1.257852e-01	1.700430e-01	0	0	8.238931e+00	1.708078e+01	SKAP2
+GO_Biological_Process_2021	positive regulation of programmed cell death (GO:0043068)	1/286	1.341681e-01	1.780777e-01	0	0	7.682261e+00	1.543106e+01	CCAR2
+GO_Biological_Process_2021	positive regulation of apoptotic process (GO:0043065)	1/310	1.446537e-01	1.885664e-01	0	0	7.076951e+00	1.368267e+01	CCAR2
+GO_Biological_Process_2021	positive regulation of multicellular organismal process (GO:0051240)	1/345	1.597402e-01	2.045796e-01	0	0	6.345607e+00	1.163915e+01	PLAC8
+GO_Biological_Process_2021	organelle assembly (GO:0070925)	1/425	1.933284e-01	2.417500e-01	0	0	5.127358e+00	8.426121e+00	SAC3D1
+GO_Biological_Process_2021	regulation of nucleic acid-templated transcription (GO:1903506)	1/430	1.953870e-01	2.417500e-01	0	0	5.066304e+00	8.272125e+00	CCAR2
+GO_Biological_Process_2021	negative regulation of nucleic acid-templated transcription (GO:1903507)	1/464	2.092603e-01	2.497093e-01	0	0	4.686105e+00	7.329894e+00	CCAR2
+GO_Biological_Process_2021	regulation of cellular macromolecule biosynthetic process (GO:2000112)	1/468	2.108783e-01	2.497093e-01	0	0	4.645015e+00	7.229847e+00	CCAR2
+GO_Biological_Process_2021	neutrophil degranulation (GO:0043312)	1/481	2.161159e-01	2.497093e-01	0	0	4.516204e+00	6.918554e+00	PLAC8
+GO_Biological_Process_2021	neutrophil activation involved in immune response (GO:0002283)	1/485	2.177212e-01	2.497093e-01	0	0	4.477961e+00	6.826831e+00	PLAC8
+GO_Biological_Process_2021	neutrophil mediated immunity (GO:0002446)	1/488	2.189232e-01	2.497093e-01	0	0	4.449692e+00	6.759234e+00	PLAC8
+GO_Biological_Process_2021	negative regulation of cellular macromolecule biosynthetic process (GO:2000113)	1/547	2.422278e-01	2.720404e-01	0	0	3.956858e+00	5.610337e+00	CCAR2
+GO_Biological_Process_2021	negative regulation of cellular process (GO:0048523)	1/566	2.495983e-01	2.760708e-01	0	0	3.820059e+00	5.301870e+00	CCAR2
+GO_Biological_Process_2021	regulation of apoptotic process (GO:0042981)	1/742	3.148676e-01	3.430647e-01	0	0	2.886340e+00	3.335463e+00	CCAR2
+GO_Biological_Process_2021	positive regulation of transcription by RNA polymerase II (GO:0045944)	1/908	3.716984e-01	3.990291e-01	0	0	2.337743e+00	2.313601e+00	PLAC8
+GO_Biological_Process_2021	negative regulation of transcription, DNA-templated (GO:0045892)	1/948	3.847416e-01	4.070455e-01	0	0	2.234307e+00	2.134173e+00	CCAR2
+GO_Biological_Process_2021	regulation of gene expression (GO:0010468)	1/1079	4.257704e-01	4.440177e-01	0	0	1.949289e+00	1.664410e+00	CCAR2
+GO_Biological_Process_2021	positive regulation of transcription, DNA-templated (GO:0045893)	1/1183	4.565709e-01	4.694320e-01	0	0	1.768002e+00	1.386133e+00	PLAC8
+GO_Biological_Process_2021	regulation of transcription by RNA polymerase II (GO:0006357)	1/2206	6.893182e-01	6.958912e-01	0	0	8.961955e-01	3.334316e-01	PLAC8
+GO_Biological_Process_2021	regulation of transcription, DNA-templated (GO:0006355)	1/2244	6.958912e-01	6.958912e-01	0	0	8.791301e-01	3.187392e-01	CCAR2
