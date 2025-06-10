@@ -1,0 +1,71 @@
+
+GAPFILLING A GENOME SCALE METABOLIC MODEL USING DNNGIOR
+
+Short tutorial (adapted from Boer et al. 2024, see below) by Maria Carolina Sisco.
+
+Improving genome-scale metabolic models of incomplete genomes with deep learning Boer et al. 2024. DOI: 10.1016/j.isci.2024.111349]
+
+    DNNgior: Deep Neural Network Guided Imputation of Reactomes
+    GSMM: Genome Scale Metabolic Model
+    DNNgior uses AI to improve gap-filling by learning from the presence and absence of metabolic reactions across diverse bacterial genomes
+
+INSTALLATION
+
+Open a terminal or command prompt and run the following command to create the environment:
+
+conda create --name dnngior python=3.10.16
+
+When prompted, confirm the installation by typing y and pressing Enter. After that, activate the environment
+
+conda activate dnngior
+
+First, we must install GUROBI optimizer (for further information, you can check on https://support.gurobi.com/hc/en-us/articles/14799677517585-Getting-Started-with-Gurobi-Optimizer). Visit the Download Gurobi Optimizer page (https://www.gurobi.com/downloads/gurobi- software/) and download it. Now, you need edit the bashrc. Follow the steps bellow:
+
+    open a terminal
+
+    go to root directory using cd
+
+    open the bashrc file. We suggest use gedit, nano or vim
+
+nano ~/.bashrc
+
+    add the following line in the bashrc:
+
+export PATH=’path-to-gurobi-bin-folder/bin/:$PATH’
+
+to locate the path-to-gurobi-bin-folder, you have to go to the directory where you have extracted the files from the downloaded tar.gz folder
+
+Second, we need a Gurobi license, a linear programming solver. You can obtain a free academic named-user-license here https://www.gurobi.com/features/academic-named-user-license/ with your institutional email.
+
+click on named-user-license. You will generate one grbgetkey to your machine. Please, type (changing the X for your respective key):
+
+grbgetkey 9f4XXXX-XXXX-XXXX-XXXX-XXXXXXXXXX
+
+Now, you will install DNNgior (inside your conda environment) with the following command:
+
+pip install dnngior
+
+In order to run the dnngior pipeline on a jupyter notebook, you need to install jupyter inside your conda environment with the following command:
+
+conda install -c conda-forge notebook -y
+or
+pip install notebook
+
+Open a new notebook typing jupyter-notebook on the terminal and test your dnngior installation by typing:
+
+import dnngior
+
+In some instances, you can find a version inconsistency with numpy, one of the dependencies of dnngior. To fix this, go to the terminal and type:
+
+pip install numpy==1.23.5
+
+Then, test your dnngior installation again. You should see this:
+
+Set parameter Username
+Set parameter LicenseID to value 2671523
+Academic license - for non-commercial use only - expires 2026-05-27
+WARNING: To enable the NN_Trainer script, you need to install
+tensorflow https://www.tensorflow.org/install,→
+The rest of dnngior features can be used without it.
+
+You should be ready to go!
